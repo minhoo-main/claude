@@ -48,3 +48,7 @@ Thumbs.db
 
 # Temporary files
 get-pip.py
+
+# Generated Reports
+Economic_Report.xlsx
+bloomberg_transformed_data.csv
